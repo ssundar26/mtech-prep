@@ -1,7 +1,7 @@
 # =============================================================
 # Day 1 — Python Foundation
 # Author  : Satya Sundar
-# Email   : satyasundar439@gmail.com
+# Email   : sundar.satya.ai@gmail.com
 # Date    : May 1, 2026
 # Goal    : Master variables, data types, operators,
 #           strings, and control flow from first principles
