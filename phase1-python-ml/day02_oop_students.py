@@ -1,7 +1,7 @@
 # =============================================================
 # Day 2 — Object-Oriented Programming : Student Management
 # Author  : Satya Sundar
-# Email   : satyasundar439@gmail.com
+# Email   : sundar.satya.ai@gmail.com
 # Date    : May 2, 2026
 # Goal    : Build a complete Student class from first principles,
 #           process 20 students, save and reload from JSON
