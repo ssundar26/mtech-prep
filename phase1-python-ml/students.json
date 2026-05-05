@@ -1,0 +1,889 @@
+{
+    "metadata": {
+        "total_students": 20,
+        "class_average": 74.23,
+        "highest_average": 96.0,
+        "lowest_average": 40.4,
+        "pass_rate": "85.0%",
+        "pass_mark": 50,
+        "subjects": [
+            "Math",
+            "Python",
+            "ML",
+            "DSA",
+            "OS"
+        ],
+        "generated_by": "Satya Sundar — Day 2 OOP Project",
+        "date": "2026-05-02"
+    },
+    "students": [
+        {
+            "name": "Satya Sundar",
+            "roll_number": "ABIT2024001",
+            "age": 22,
+            "marks": {
+                "Math": 88,
+                "Python": 92,
+                "ML": 90,
+                "DSA": 85,
+                "OS": 82
+            },
+            "average": 87.4,
+            "grade": "A",
+            "passed": true,
+            "best_subject": "Python",
+            "best_marks": 92,
+            "worst_subject": "OS",
+            "worst_marks": 82,
+            "subjects_below_60": [],
+            "ranked_subjects": [
+                [
+                    "Python",
+                    92
+                ],
+                [
+                    "ML",
+                    90
+                ],
+                [
+                    "Math",
+                    88
+                ],
+                [
+                    "DSA",
+                    85
+                ],
+                [
+                    "OS",
+                    82
+                ]
+            ]
+        },
+        {
+            "name": "Priya Patel",
+            "roll_number": "ABIT2024002",
+            "age": 21,
+            "marks": {
+                "Math": 95,
+                "Python": 88,
+                "ML": 93,
+                "DSA": 91,
+                "OS": 89
+            },
+            "average": 91.2,
+            "grade": "A+",
+            "passed": true,
+            "best_subject": "Math",
+            "best_marks": 95,
+            "worst_subject": "Python",
+            "worst_marks": 88,
+            "subjects_below_60": [],
+            "ranked_subjects": [
+                [
+                    "Math",
+                    95
+                ],
+                [
+                    "ML",
+                    93
+                ],
+                [
+                    "DSA",
+                    91
+                ],
+                [
+                    "OS",
+                    89
+                ],
+                [
+                    "Python",
+                    88
+                ]
+            ]
+        },
+        {
+            "name": "Raju Kumar",
+            "roll_number": "ABIT2024003",
+            "age": 23,
+            "marks": {
+                "Math": 72,
+                "Python": 68,
+                "ML": 75,
+                "DSA": 70,
+                "OS": 65
+            },
+            "average": 70.0,
+            "grade": "B",
+            "passed": true,
+            "best_subject": "ML",
+            "best_marks": 75,
+            "worst_subject": "OS",
+            "worst_marks": 65,
+            "subjects_below_60": [],
+            "ranked_subjects": [
+                [
+                    "ML",
+                    75
+                ],
+                [
+                    "Math",
+                    72
+                ],
+                [
+                    "DSA",
+                    70
+                ],
+                [
+                    "Python",
+                    68
+                ],
+                [
+                    "OS",
+                    65
+                ]
+            ]
+        },
+        {
+            "name": "Meena Dash",
+            "roll_number": "ABIT2024004",
+            "age": 22,
+            "marks": {
+                "Math": 45,
+                "Python": 55,
+                "ML": 48,
+                "DSA": 42,
+                "OS": 50
+            },
+            "average": 48.0,
+            "grade": "F",
+            "passed": false,
+            "best_subject": "Python",
+            "best_marks": 55,
+            "worst_subject": "DSA",
+            "worst_marks": 42,
+            "subjects_below_60": [
+                "Math",
+                "Python",
+                "ML",
+                "DSA",
+                "OS"
+            ],
+            "ranked_subjects": [
+                [
+                    "Python",
+                    55
+                ],
+                [
+                    "OS",
+                    50
+                ],
+                [
+                    "ML",
+                    48
+                ],
+                [
+                    "Math",
+                    45
+                ],
+                [
+                    "DSA",
+                    42
+                ]
+            ]
+        },
+        {
+            "name": "Arjun Singh",
+            "roll_number": "ABIT2024005",
+            "age": 21,
+            "marks": {
+                "Math": 98,
+                "Python": 95,
+                "ML": 97,
+                "DSA": 96,
+                "OS": 94
+            },
+            "average": 96.0,
+            "grade": "A+",
+            "passed": true,
+            "best_subject": "Math",
+            "best_marks": 98,
+            "worst_subject": "OS",
+            "worst_marks": 94,
+            "subjects_below_60": [],
+            "ranked_subjects": [
+                [
+                    "Math",
+                    98
+                ],
+                [
+                    "ML",
+                    97
+                ],
+                [
+                    "DSA",
+                    96
+                ],
+                [
+                    "Python",
+                    95
+                ],
+                [
+                    "OS",
+                    94
+                ]
+            ]
+        },
+        {
+            "name": "Sita Mohanty",
+            "roll_number": "ABIT2024006",
+            "age": 23,
+            "marks": {
+                "Math": 60,
+                "Python": 72,
+                "ML": 65,
+                "DSA": 58,
+                "OS": 63
+            },
+            "average": 63.6,
+            "grade": "C",
+            "passed": true,
+            "best_subject": "Python",
+            "best_marks": 72,
+            "worst_subject": "DSA",
+            "worst_marks": 58,
+            "subjects_below_60": [
+                "DSA"
+            ],
+            "ranked_subjects": [
+                [
+                    "Python",
+                    72
+                ],
+                [
+                    "ML",
+                    65
+                ],
+                [
+                    "OS",
+                    63
+                ],
+                [
+                    "Math",
+                    60
+                ],
+                [
+                    "DSA",
+                    58
+                ]
+            ]
+        },
+        {
+            "name": "Vikram Nair",
+            "roll_number": "ABIT2024007",
+            "age": 22,
+            "marks": {
+                "Math": 83,
+                "Python": 79,
+                "ML": 81,
+                "DSA": 85,
+                "OS": 78
+            },
+            "average": 81.2,
+            "grade": "A",
+            "passed": true,
+            "best_subject": "DSA",
+            "best_marks": 85,
+            "worst_subject": "OS",
+            "worst_marks": 78,
+            "subjects_below_60": [],
+            "ranked_subjects": [
+                [
+                    "DSA",
+                    85
+                ],
+                [
+                    "Math",
+                    83
+                ],
+                [
+                    "ML",
+                    81
+                ],
+                [
+                    "Python",
+                    79
+                ],
+                [
+                    "OS",
+                    78
+                ]
+            ]
+        },
+        {
+            "name": "Anjali Reddy",
+            "roll_number": "ABIT2024008",
+            "age": 24,
+            "marks": {
+                "Math": 37,
+                "Python": 45,
+                "ML": 40,
+                "DSA": 38,
+                "OS": 42
+            },
+            "average": 40.4,
+            "grade": "F",
+            "passed": false,
+            "best_subject": "Python",
+            "best_marks": 45,
+            "worst_subject": "Math",
+            "worst_marks": 37,
+            "subjects_below_60": [
+                "Math",
+                "Python",
+                "ML",
+                "DSA",
+                "OS"
+            ],
+            "ranked_subjects": [
+                [
+                    "Python",
+                    45
+                ],
+                [
+                    "OS",
+                    42
+                ],
+                [
+                    "ML",
+                    40
+                ],
+                [
+                    "DSA",
+                    38
+                ],
+                [
+                    "Math",
+                    37
+                ]
+            ]
+        },
+        {
+            "name": "Rohit Sharma",
+            "roll_number": "ABIT2024009",
+            "age": 22,
+            "marks": {
+                "Math": 77,
+                "Python": 82,
+                "ML": 79,
+                "DSA": 74,
+                "OS": 80
+            },
+            "average": 78.4,
+            "grade": "B",
+            "passed": true,
+            "best_subject": "Python",
+            "best_marks": 82,
+            "worst_subject": "DSA",
+            "worst_marks": 74,
+            "subjects_below_60": [],
+            "ranked_subjects": [
+                [
+                    "Python",
+                    82
+                ],
+                [
+                    "OS",
+                    80
+                ],
+                [
+                    "ML",
+                    79
+                ],
+                [
+                    "Math",
+                    77
+                ],
+                [
+                    "DSA",
+                    74
+                ]
+            ]
+        },
+        {
+            "name": "Kavya Rao",
+            "roll_number": "ABIT2024010",
+            "age": 21,
+            "marks": {
+                "Math": 91,
+                "Python": 89,
+                "ML": 94,
+                "DSA": 92,
+                "OS": 88
+            },
+            "average": 90.8,
+            "grade": "A+",
+            "passed": true,
+            "best_subject": "ML",
+            "best_marks": 94,
+            "worst_subject": "OS",
+            "worst_marks": 88,
+            "subjects_below_60": [],
+            "ranked_subjects": [
+                [
+                    "ML",
+                    94
+                ],
+                [
+                    "DSA",
+                    92
+                ],
+                [
+                    "Math",
+                    91
+                ],
+                [
+                    "Python",
+                    89
+                ],
+                [
+                    "OS",
+                    88
+                ]
+            ]
+        },
+        {
+            "name": "Deepak Joshi",
+            "roll_number": "ABIT2024011",
+            "age": 23,
+            "marks": {
+                "Math": 55,
+                "Python": 60,
+                "ML": 52,
+                "DSA": 58,
+                "OS": 56
+            },
+            "average": 56.2,
+            "grade": "D",
+            "passed": true,
+            "best_subject": "Python",
+            "best_marks": 60,
+            "worst_subject": "ML",
+            "worst_marks": 52,
+            "subjects_below_60": [
+                "Math",
+                "ML",
+                "DSA",
+                "OS"
+            ],
+            "ranked_subjects": [
+                [
+                    "Python",
+                    60
+                ],
+                [
+                    "DSA",
+                    58
+                ],
+                [
+                    "OS",
+                    56
+                ],
+                [
+                    "Math",
+                    55
+                ],
+                [
+                    "ML",
+                    52
+                ]
+            ]
+        },
+        {
+            "name": "Nisha Gupta",
+            "roll_number": "ABIT2024012",
+            "age": 22,
+            "marks": {
+                "Math": 84,
+                "Python": 87,
+                "ML": 86,
+                "DSA": 83,
+                "OS": 89
+            },
+            "average": 85.8,
+            "grade": "A",
+            "passed": true,
+            "best_subject": "OS",
+            "best_marks": 89,
+            "worst_subject": "DSA",
+            "worst_marks": 83,
+            "subjects_below_60": [],
+            "ranked_subjects": [
+                [
+                    "OS",
+                    89
+                ],
+                [
+                    "Python",
+                    87
+                ],
+                [
+                    "ML",
+                    86
+                ],
+                [
+                    "Math",
+                    84
+                ],
+                [
+                    "DSA",
+                    83
+                ]
+            ]
+        },
+        {
+            "name": "Arun Pillai",
+            "roll_number": "ABIT2024013",
+            "age": 23,
+            "marks": {
+                "Math": 67,
+                "Python": 71,
+                "ML": 69,
+                "DSA": 65,
+                "OS": 68
+            },
+            "average": 68.0,
+            "grade": "C",
+            "passed": true,
+            "best_subject": "Python",
+            "best_marks": 71,
+            "worst_subject": "DSA",
+            "worst_marks": 65,
+            "subjects_below_60": [],
+            "ranked_subjects": [
+                [
+                    "Python",
+                    71
+                ],
+                [
+                    "ML",
+                    69
+                ],
+                [
+                    "OS",
+                    68
+                ],
+                [
+                    "Math",
+                    67
+                ],
+                [
+                    "DSA",
+                    65
+                ]
+            ]
+        },
+        {
+            "name": "Pooja Verma",
+            "roll_number": "ABIT2024014",
+            "age": 22,
+            "marks": {
+                "Math": 79,
+                "Python": 76,
+                "ML": 82,
+                "DSA": 77,
+                "OS": 74
+            },
+            "average": 77.6,
+            "grade": "B",
+            "passed": true,
+            "best_subject": "ML",
+            "best_marks": 82,
+            "worst_subject": "OS",
+            "worst_marks": 74,
+            "subjects_below_60": [],
+            "ranked_subjects": [
+                [
+                    "ML",
+                    82
+                ],
+                [
+                    "Math",
+                    79
+                ],
+                [
+                    "DSA",
+                    77
+                ],
+                [
+                    "Python",
+                    76
+                ],
+                [
+                    "OS",
+                    74
+                ]
+            ]
+        },
+        {
+            "name": "Suresh Mishra",
+            "roll_number": "ABIT2024015",
+            "age": 24,
+            "marks": {
+                "Math": 43,
+                "Python": 38,
+                "ML": 46,
+                "DSA": 41,
+                "OS": 44
+            },
+            "average": 42.4,
+            "grade": "F",
+            "passed": false,
+            "best_subject": "ML",
+            "best_marks": 46,
+            "worst_subject": "Python",
+            "worst_marks": 38,
+            "subjects_below_60": [
+                "Math",
+                "Python",
+                "ML",
+                "DSA",
+                "OS"
+            ],
+            "ranked_subjects": [
+                [
+                    "ML",
+                    46
+                ],
+                [
+                    "OS",
+                    44
+                ],
+                [
+                    "Math",
+                    43
+                ],
+                [
+                    "DSA",
+                    41
+                ],
+                [
+                    "Python",
+                    38
+                ]
+            ]
+        },
+        {
+            "name": "Lakshmi Iyer",
+            "roll_number": "ABIT2024016",
+            "age": 21,
+            "marks": {
+                "Math": 90,
+                "Python": 93,
+                "ML": 91,
+                "DSA": 88,
+                "OS": 92
+            },
+            "average": 90.8,
+            "grade": "A+",
+            "passed": true,
+            "best_subject": "Python",
+            "best_marks": 93,
+            "worst_subject": "DSA",
+            "worst_marks": 88,
+            "subjects_below_60": [],
+            "ranked_subjects": [
+                [
+                    "Python",
+                    93
+                ],
+                [
+                    "OS",
+                    92
+                ],
+                [
+                    "ML",
+                    91
+                ],
+                [
+                    "Math",
+                    90
+                ],
+                [
+                    "DSA",
+                    88
+                ]
+            ]
+        },
+        {
+            "name": "Manoj Tiwari",
+            "roll_number": "ABIT2024017",
+            "age": 23,
+            "marks": {
+                "Math": 62,
+                "Python": 58,
+                "ML": 64,
+                "DSA": 60,
+                "OS": 55
+            },
+            "average": 59.8,
+            "grade": "D",
+            "passed": true,
+            "best_subject": "ML",
+            "best_marks": 64,
+            "worst_subject": "OS",
+            "worst_marks": 55,
+            "subjects_below_60": [
+                "Python",
+                "OS"
+            ],
+            "ranked_subjects": [
+                [
+                    "ML",
+                    64
+                ],
+                [
+                    "Math",
+                    62
+                ],
+                [
+                    "DSA",
+                    60
+                ],
+                [
+                    "Python",
+                    58
+                ],
+                [
+                    "OS",
+                    55
+                ]
+            ]
+        },
+        {
+            "name": "Divya Krishnan",
+            "roll_number": "ABIT2024018",
+            "age": 22,
+            "marks": {
+                "Math": 86,
+                "Python": 90,
+                "ML": 88,
+                "DSA": 84,
+                "OS": 87
+            },
+            "average": 87.0,
+            "grade": "A",
+            "passed": true,
+            "best_subject": "Python",
+            "best_marks": 90,
+            "worst_subject": "DSA",
+            "worst_marks": 84,
+            "subjects_below_60": [],
+            "ranked_subjects": [
+                [
+                    "Python",
+                    90
+                ],
+                [
+                    "ML",
+                    88
+                ],
+                [
+                    "OS",
+                    87
+                ],
+                [
+                    "Math",
+                    86
+                ],
+                [
+                    "DSA",
+                    84
+                ]
+            ]
+        },
+        {
+            "name": "Rahul Bose",
+            "roll_number": "ABIT2024019",
+            "age": 23,
+            "marks": {
+                "Math": 74,
+                "Python": 78,
+                "ML": 72,
+                "DSA": 76,
+                "OS": 70
+            },
+            "average": 74.0,
+            "grade": "B",
+            "passed": true,
+            "best_subject": "Python",
+            "best_marks": 78,
+            "worst_subject": "OS",
+            "worst_marks": 70,
+            "subjects_below_60": [],
+            "ranked_subjects": [
+                [
+                    "Python",
+                    78
+                ],
+                [
+                    "DSA",
+                    76
+                ],
+                [
+                    "Math",
+                    74
+                ],
+                [
+                    "ML",
+                    72
+                ],
+                [
+                    "OS",
+                    70
+                ]
+            ]
+        },
+        {
+            "name": "Anita Chatterjee",
+            "roll_number": "ABIT2024020",
+            "age": 21,
+            "marks": {
+                "Math": 96,
+                "Python": 94,
+                "ML": 98,
+                "DSA": 95,
+                "OS": 97
+            },
+            "average": 96.0,
+            "grade": "A+",
+            "passed": true,
+            "best_subject": "ML",
+            "best_marks": 98,
+            "worst_subject": "Python",
+            "worst_marks": 94,
+            "subjects_below_60": [],
+            "ranked_subjects": [
+                [
+                    "ML",
+                    98
+                ],
+                [
+                    "OS",
+                    97
+                ],
+                [
+                    "Math",
+                    96
+                ],
+                [
+                    "DSA",
+                    95
+                ],
+                [
+                    "Python",
+                    94
+                ]
+            ]
+        }
+    ]
+}
