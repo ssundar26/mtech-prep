@@ -1,7 +1,7 @@
 # =============================================================
 # Day 2 — Data Structures in Depth
 # Author  : Satya Sundar
-# Email   : satyasundar439@gmail.com
+# Email   : sundar.satya.ai@gmail.com
 # Date    : May 2, 2026
 # Goal    : Master lists, tuples, sets, and dictionaries
 #           from first principles with practical ML examples
